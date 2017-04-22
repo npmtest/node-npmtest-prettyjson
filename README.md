@@ -1,4 +1,7 @@
-# test coverage for  [prettyjson (v1.2.1)](http://rafeca.com/prettyjson)  [![npm package](https://img.shields.io/npm/v/npmtest-prettyjson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-prettyjson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-prettyjson.svg)](https://travis-ci.org/npmtest/node-npmtest-prettyjson)
+# npmtest-prettyjson
+
+#### basic test coverage for  [prettyjson (v1.2.1)](http://rafeca.com/prettyjson)  [![npm package](https://img.shields.io/npm/v/npmtest-prettyjson.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-prettyjson) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-prettyjson.svg)](https://travis-ci.org/npmtest/node-npmtest-prettyjson)
+
 #### Package for formatting JSON data in a coloured YAML-style, perfect for CLI output
 
 [![NPM](https://nodei.co/npm/prettyjson.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/prettyjson)
